@@ -1,0 +1,12 @@
+[submodule "libraries/Encoder"]
+	path = libraries/Encoder
+	url = https://github.com/PaulStoffregen/Encoder/
+[submodule "libraries/TM1637"]
+	path = libraries/TM1637
+	url = https://github.com/avishorp/TM1637/
+[submodule "libraries/OneButton"]
+	path = libraries/OneButton
+	url = https://github.com/mathertel/OneButton/
+[submodule "libraries/RTClib"]
+	path = libraries/RTClib
+	url = https://github.com/adafruit/RTClib
